@@ -1,0 +1,301 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics React -Barbie",
+      "overview": "Dive into the fundamentals of React with Barbie. This course provides a clear, concise introduction to building dynamic and interactive web applications using React.",
+      "long_description": "Unlock the power of React with this comprehensive course designed for beginners and enthusiasts eager to learn the core concepts of one of the most popular JavaScript libraries. Barbie walks you through the essentials, from understanding components and state management to implementing modern best practices. Gain practical knowledge with real-world examples, step-by-step instructions, and hands-on exercises. Whether you're starting your web development journey or refining your skills, this course will empower you to create fast, scalable, and interactive applications. Join now to transform your web development capabilities!",
+      "price": 30,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Django Framework",
+      "overview": "Master the Django Framework and build powerful, scalable web applications with ease. Learn how to leverage Django's robust features for rapid development and seamless deployment.",
+      "long_description": "Dive deep into the Django Framework, a high-level Python web framework known for its clean design and ease of use. This course covers everything from setting up your first Django project to building dynamic, database-driven applications. Explore essential concepts like models, views, templates, and REST APIs, while understanding how Django simplifies complex web development tasks. Gain hands-on experience with real-world projects, best practices, and tips for optimizing performance and security. Whether you're a beginner or looking to enhance your skills, this course will empower you to create modern, efficient, and scalable web solutions with Django.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "System Design - Tony Stark",
+      "overview": "Learn the art of system design with Tony Stark. This course equips you with the knowledge and tools to design scalable, robust, and efficient software systems from scratch.",
+      "long_description": "Master the critical concepts of system design in this comprehensive course by Tony Stark. Whether you're preparing for technical interviews or aiming to build large-scale software systems, this course offers practical insights into designing systems that handle millions of users seamlessly. Explore topics like scalability, fault tolerance, database sharding, load balancing, and caching strategies. Through real-world examples and hands-on projects, gain the confidence to tackle complex design challenges and make informed decisions. Ideal for software engineers and architects, this course will elevate your ability to build cutting-edge, reliable systems tailored to modern-day requirements.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "Java Backend Development with Spring Boot",
+      "overview": "Build robust and scalable backend applications with Java and Spring Boot. Master the essential tools and techniques for modern backend development.",
+      "long_description": "Dive into the world of backend development with this comprehensive course on Java and Spring Boot. Learn to create high-performance, secure, and maintainable backend systems by exploring key concepts such as dependency injection, RESTful APIs, data persistence with JPA and Hibernate, and microservices architecture. This course combines theory with hands-on practice, offering real-world projects to solidify your understanding. Whether you're a beginner or an experienced developer, this course will equip you with the skills needed to excel in backend development and build applications that meet the demands of today's competitive tech landscape.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Blockchain from Scratch in Go",
+      "overview": "Learn to build a blockchain from the ground up using Go. Gain a deep understanding of blockchain technology and its implementation through practical coding exercises.",
+      "long_description": "Explore the fundamentals of blockchain technology with this hands-on course, designed to teach you how to build a blockchain from scratch using the Go programming language. Delve into core concepts like cryptographic hashing, consensus algorithms, peer-to-peer networking, and data integrity. This course offers step-by-step guidance, practical examples, and real-world applications to solidify your knowledge. Whether you're a developer looking to enhance your skills or a blockchain enthusiast, this course equips you with the expertise to create secure, decentralized systems and understand the mechanics behind cutting-edge blockchain solutions.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "Cook with Remy",
+      "overview": "Join  Remy on a delightful culinary journey and learn to cook delicious recipes from scratch. Perfect for beginners and food enthusiasts alike!",
+      "long_description": "Embark on a flavorful adventure with 'Cook with  Remy,' where you’ll master the art of cooking step-by-step. This course covers a variety of cuisines, teaching you techniques, tips, and tricks to create mouthwatering dishes right in your kitchen. Whether you're a novice or an experienced cook looking to refine your skills,  Remy’s approachable style and detailed instructions make it easy to follow along. Explore everything from quick meals to gourmet recipes, all while gaining confidence in the kitchen. Join now and turn your passion for cooking into a rewarding experience!",
+      "price": 99,
+      "poster": "https://media.istockphoto.com/id/1784017636/photo/senior-couple-cooking-dinner-at-home-in-latin-america.jpg?s=612x612&w=0&k=20&c=k1NnSF3FuhMsI5CKQmMBcF202rAIX3Of4TnCbSrJFUU=",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Mahabharat The Epic",
+      "overview": "Explore the timeless epic of Mahabharat, a tale of valor, wisdom, and eternal life lessons that continue to inspire generations.",
+      "long_description": "Dive into the rich and intricate narrative of the Mahabharat, one of the greatest epics of all time. This course takes you on a journey through its profound stories, legendary characters, and timeless teachings. Explore themes of duty, morality, and the eternal struggle between good and evil. Gain a deeper understanding of the cultural and spiritual significance of this masterpiece while uncovering valuable life lessons applicable to the modern world. Whether you’re a scholar, a history enthusiast, or someone seeking inspiration, this course offers a comprehensive and engaging exploration of the Mahabharat.",
+      "price": 19,
+      "poster": "https://media.istockphoto.com/id/1871842144/photo/wooden-art-of-hindu-god-krishna-teaching-bhavad-gita-during-mahabharat-war.jpg?s=612x612&w=0&k=20&c=z77e_Ab6k96sR0EH-lkXE-Vo3bnY_b6Zk3Aun_AmzMA=",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "Ramayan The Epic",
+      "overview": "Discover the timeless epic of Ramayan, a story of virtue, devotion, and the triumph of good over evil, resonating through ages.",
+      "long_description": "Embark on a profound journey through the Ramayan, one of the most revered epics in history. This course delves into the enchanting narrative of Lord Rama, his unwavering values, and his heroic quest to rescue Sita. Explore the timeless themes of dharma, loyalty, sacrifice, and the eternal battle between righteousness and evil. Through captivating stories and characters, gain insights into the cultural and spiritual wisdom that has shaped generations. Whether you seek inspiration, moral guidance, or a deeper understanding of this epic, this course offers a rich and enlightening exploration of the Ramayan.",
+      "price": 29,
+      "poster": "https://media.istockphoto.com/id/1278462738/vector/lord-ram-cartoon-with-bow-and-arrow-in-front-of-red-mandala-vector-design.jpg?s=612x612&w=0&k=20&c=g92Rcjp7o53mziHDRzyQ4ptD8Qlv2Zt5qp5VbmmV5Tw=",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "Python - Kakashi Hatake",
+      "overview": "Learn Python from the basics to advanced techniques with Kakashi Hatake. This course is perfect for beginners and those looking to deepen their understanding of Python programming.",
+      "long_description": "Master the Python programming language with this comprehensive course by Kakashi Hatake. Whether you're starting from scratch or looking to enhance your skills, this course covers everything from the basics of syntax and control flow to advanced topics like object-oriented programming, functional programming, and data structures. Through practical examples, hands-on exercises, and real-world projects, gain the confidence to write efficient, clean, and powerful Python code. Perfect for developers, students, and anyone interested in learning one of the most versatile programming languages today. Join now to unlock the full potential of Python.",
+      "price": 29,
+      "poster": "https://media.istockphoto.com/id/1277836831/vector/python-code-language-sign-programming-coding-and-developing-concept.jpg?s=612x612&w=0&k=20&c=bxQefLn1zbEv0sG6dRLz9CjFfkiKgh3mRRpIFWHlskI=",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "Namaste JavaScript - Akshay Saini",
+      "overview": "Master JavaScript from the ground up with Akshay Saini. This course is designed for beginners and experienced developers looking to deepen their knowledge and build dynamic web applications.",
+      "long_description": "Unlock the power of JavaScript with this comprehensive course by Akshay Saini. Whether you’re new to programming or an experienced developer, this course covers everything from the basics to advanced concepts. Learn how to write clean, efficient code and build interactive, feature-rich web applications. Topics include JavaScript fundamentals, ES6+ features, asynchronous programming, DOM manipulation, and modern JavaScript frameworks. Through hands-on projects and real-world examples, gain the skills needed to succeed in today’s web development landscape. Join now to become a proficient JavaScript developer.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Web Development - Shweta",
+      "overview": "Learn the essential skills of web development with Shweta. This course covers everything from front-end to back-end development, enabling you to build modern, responsive websites.",
+      "long_description": "Master the art of web development with this comprehensive course by Shweta. From HTML, CSS, and JavaScript to backend technologies like Node.js and databases, this course provides a thorough foundation in both front-end and back-end development. Learn how to create responsive designs, implement interactive features, and build robust, scalable web applications. Through hands-on projects and real-world examples, gain practical experience in developing, testing, and deploying websites. Whether you’re a beginner or an aspiring developer, this course will empower you to create professional-grade websites and kickstart your career in web development.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "Mastering Git and GitHub",
+      "overview": "Learn how to effectively use Git and GitHub to manage your projects, collaborate with others, and streamline version control in your development workflow.",
+      "long_description": "Become a proficient user of Git and GitHub with this in-depth course. Whether you’re a beginner or looking to take your skills to the next level, this course covers everything from basic version control to advanced features like branching, merging, pull requests, and resolving conflicts. Learn how to efficiently manage code changes, track versions, and collaborate seamlessly with other developers. Through hands-on exercises, practical projects, and real-world examples, you’ll gain the skills needed to navigate Git’s complexities and leverage GitHub for team collaboration and version control. Ideal for software developers, project managers, and anyone involved in coding projects.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 2,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "The Palace of Illusions",
+      "overview": "Explore the mystical world of ‘The Palace of Illusions,’ where mythology and storytelling come alive, revealing the untold stories of ancient India.",
+      "long_description": "Step into the enchanting world of ‘The Palace of Illusions,’ based on the Indian epic, the Mahabharat. This course delves into the life and mind of Draupadi, the main character, as she experiences love, loss, and power amidst the grandeur of the mythological palace. Discover the hidden meanings behind the stories and the deep, philosophical insights woven into the narrative. Through this course, gain a unique perspective on Indian mythology, cultural history, and the timeless wisdom embedded in the epic’s complex characters and events. Whether you are a literature enthusiast or a student of history, this course offers a captivating exploration of one of India’s most iconic texts.",
+      "price": 19,
+      "poster": "https://media.istockphoto.com/id/1054775834/photo/lord-krishna-with-radha.jpg?s=612x612&w=0&k=20&c=0Yq8I4HYxy4q9zoN-m0eqhuCVUgX1EJ3dg1mxJXZjcE=",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "The Monk Who Sold His Ferrari",
+      "overview": "Discover the timeless wisdom of ‘The Monk Who Sold His Ferrari,’ where the journey to enlightenment and personal transformation is laid bare in a compelling narrative.",
+      "long_description": "Join the inspiring journey of Julian Mantle, a successful lawyer who rediscovers the true meaning of life after selling his Ferrari and becoming a monk. This course explores the ancient wisdom and practical advice presented in the book, offering guidance on achieving personal mastery, finding balance, and leading a fulfilling life. Through relatable stories and life lessons, gain insights into stress management, self-discipline, and the pursuit of a higher purpose. Whether you’re looking to find more meaning in your daily life or seeking inspiration for personal growth, this course provides valuable tools and strategies to unlock your full potential and live with purpose.",
+      "price": 19,
+      "poster": "https://media.istockphoto.com/id/179102045/photo/buddhist-monk-reading-outdoors.jpg?s=612x612&w=0&k=20&c=i9Ya9C2J_RMDY_OYYPkDTGNJ2TTrlj9lyEYP7dOb-pM=",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Guide to Business Analyst",
+      "overview": "Gain essential skills and knowledge to become a successful Business Analyst with this comprehensive guide. Ideal for beginners and professionals looking to expand their expertise.",
+      "long_description": "Dive into the world of Business Analysis with this detailed course. From understanding market requirements and customer needs to creating detailed use cases and process flows, this guide provides a complete roadmap to mastering the role of a Business Analyst. Learn how to effectively communicate with stakeholders, translate complex requirements into actionable insights, and drive successful project outcomes. Through practical examples, case studies, and real-world scenarios, gain the skills needed to excel in this dynamic field. Whether you’re starting your career or advancing in your current role, this course equips you with the tools to succeed as a Business Analyst.",
+      "price": 9,
+      "poster": "https://media.istockphoto.com/id/1768990605/photo/group-of-multiracial-business-partners-shaking-hands-in-coworking-office-space.jpg?s=612x612&w=0&k=20&c=E9XUNNKZHi22nZjown-qYJo70-yh09NMvYE4PiFa7S4=",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10016,
+      "name": "Dragon Ball Super",
+      "overview": "Dive into the latest adventures of the Dragon Ball universe, following Goku and his friends as they face new challenges, powerful foes, and explore the mysteries of the multiverse.",
+      "long_description": "Join Goku, Vegeta, and the rest of the Dragon Ball crew as they embark on new adventures in Dragon Ball Super. This course explores the latest sagas, storylines, and characters from the Dragon Ball universe, including the powerful transformations and battles that fans have come to love. Discover new worlds, ancient artifacts, and the secrets of the multiverse as Goku and his friends strive to become stronger and protect their universe. With detailed breakdowns of each arc, character development, and thematic analysis, this course is a must for any Dragon Ball enthusiast looking to deepen their understanding and appreciation of this iconic series.",
+      "price": 9,
+      "poster": "https://media.istockphoto.com/id/1460222987/photo/set-of-seven-orange-crystal-dragon-ball.jpg?s=612x612&w=0&k=20&c=PMwXTVEYInMe4Z8xytVl1qDg5aGIlR4NLxQVnPXCbZA=",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": true
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10013,
+      "name": "The Palace of Illusions",
+      "overview": "Explore the mystical world of ‘The Palace of Illusions,’ where mythology and storytelling come alive, revealing the untold stories of ancient India.",
+      "long_description": "Step into the enchanting world of ‘The Palace of Illusions,’ based on the Indian epic, the Mahabharat. This course delves into the life and mind of Draupadi, the main character, as she experiences love, loss, and power amidst the grandeur of the mythological palace. Discover the hidden meanings behind the stories and the deep, philosophical insights woven into the narrative. Through this course, gain a unique perspective on Indian mythology, cultural history, and the timeless wisdom embedded in the epic’s complex characters and events. Whether you are a literature enthusiast or a student of history, this course offers a captivating exploration of one of India’s most iconic texts.",
+      "price": 19,
+      "poster": "https://media.istockphoto.com/id/1054775834/photo/lord-krishna-with-radha.jpg?s=612x612&w=0&k=20&c=0Yq8I4HYxy4q9zoN-m0eqhuCVUgX1EJ3dg1mxJXZjcE=",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "Cook with Ramu Kaka",
+      "overview": "Join Ramu Kaka on a delightful culinary journey and learn to cook delicious recipes from scratch. Perfect for beginners and food enthusiasts alike!",
+      "long_description": "Embark on a flavorful adventure with 'Cook with Ramu Kaka,' where you’ll master the art of cooking step-by-step. This course covers a variety of cuisines, teaching you techniques, tips, and tricks to create mouthwatering dishes right in your kitchen. Whether you're a novice or an experienced cook looking to refine your skills, Akshit’s approachable style and detailed instructions make it easy to follow along. Explore everything from quick meals to gourmet recipes, all while gaining confidence in the kitchen. Join now and turn your passion for cooking into a rewarding experience!",
+      "price": 99,
+      "poster": "https://media.istockphoto.com/id/1784017636/photo/senior-couple-cooking-dinner-at-home-in-latin-america.jpg?s=612x612&w=0&k=20&c=k1NnSF3FuhMsI5CKQmMBcF202rAIX3Of4TnCbSrJFUU=",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "The Monk Who Sold His Ferrari",
+      "overview": "Discover the timeless wisdom of ‘The Monk Who Sold His Ferrari,’ where the journey to enlightenment and personal transformation is laid bare in a compelling narrative.",
+      "long_description": "Join the inspiring journey of Julian Mantle, a successful lawyer who rediscovers the true meaning of life after selling his Ferrari and becoming a monk. This course explores the ancient wisdom and practical advice presented in the book, offering guidance on achieving personal mastery, finding balance, and leading a fulfilling life. Through relatable stories and life lessons, gain insights into stress management, self-discipline, and the pursuit of a higher purpose. Whether you’re looking to find more meaning in your daily life or seeking inspiration for personal growth, this course provides valuable tools and strategies to unlock your full potential and live with purpose.",
+      "price": 19,
+      "poster": "https://media.istockphoto.com/id/179102045/photo/buddhist-monk-reading-outdoors.jpg?s=612x612&w=0&k=20&c=i9Ya9C2J_RMDY_OYYPkDTGNJ2TTrlj9lyEYP7dOb-pM=",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "Basics React - Shweta Rawat",
+          "overview": "Dive into the fundamentals of React with  Shweta Rawat. This course provides a clear, concise introduction to building dynamic and interactive web applications using React.",
+          "long_description": "Unlock the power of React with this comprehensive course designed for beginners and enthusiasts eager to learn the core concepts of one of the most popular JavaScript libraries.  Shweta Rawat walks you through the essentials, from understanding components and state management to implementing modern best practices. Gain practical knowledge with real-world examples, step-by-step instructions, and hands-on exercises. Whether you're starting your web development journey or refining your skills, this course will empower you to create fast, scalable, and interactive applications. Join now to transform your web development capabilities!",
+          "price": 30,
+          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10002,
+          "name": "Django Framework",
+          "overview": "Master the Django Framework and build powerful, scalable web applications with ease. Learn how to leverage Django's robust features for rapid development and seamless deployment.",
+          "long_description": "Dive deep into the Django Framework, a high-level Python web framework known for its clean design and ease of use. This course covers everything from setting up your first Django project to building dynamic, database-driven applications. Explore essential concepts like models, views, templates, and REST APIs, while understanding how Django simplifies complex web development tasks. Gain hands-on experience with real-world projects, best practices, and tips for optimizing performance and security. Whether you're a beginner or looking to enhance your skills, this course will empower you to create modern, efficient, and scalable web solutions with Django.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 49,
+      "quantity": 2,
+      "user": {
+        "name": "Shweta Rawat",
+        "email": "shweta09@gmail.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "shweta09@gmail.com",
+      "password": "$2a$10$lXtSzAzUIMKcetAPr5ANReEDaFJZKqlC584gFhxDtoWm86J3wCYmS",
+      "name": "Shweta Rawat",
+      "id": 1
+    }
+  ]
+}

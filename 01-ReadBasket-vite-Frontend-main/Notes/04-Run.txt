@@ -1,0 +1,11 @@
+#To Run Fronted
+
+1. npm install
+2. npm run dev
+
+#To Run Backend [API + Routes] [Open the BookMart-MockServer in new Window]
+
+1. npm install
+2. npm start
+
+Website: https://bookmart-main.netlify.app
